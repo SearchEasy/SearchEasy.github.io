@@ -1,0 +1,40 @@
+.xyz{
+    background-image: url(imageforcoding.jpg);
+    width: 100%;
+    height: auto;
+ 
+    display: flex;
+    flex-wrap: wrap;
+    
+    background-size: cover;
+    padding: 182px 0px;
+    
+    margin-top: 59px;
+   
+    width: 100%;
+    
+}
+.abc{
+    border: 2px solid white;
+    background-image: url(image\ new.jpeg);
+    width: 100%;
+    height: 20%;
+ 
+    
+    background-size: cover;
+    padding: 182px 0px;
+    
+    margin-top: 59px;
+   
+   
+}
+.abc:hover{
+    background-color: azure;
+}
+p{
+    border-radius: 28px;
+    color: white;
+    font-size: 40px;
+    margin-left: 560px;
+    margin-bottom:60px ;
+    

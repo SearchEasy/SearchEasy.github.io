@@ -1,0 +1,50 @@
+.pp2{
+    background-image: url(excelbackground.jpg);
+    display: flex;
+    flex-wrap: ;
+    
+    background-size: cover;
+    padding: 350px 15px;
+   margin-left: 0px;
+    height: 80%;
+    width: 98%;
+
+}
+
+h1{
+    padding: 15px 4px;
+    position: absolute;
+    top: 75%;
+    bottom: 50%;
+    font-size: 70px;
+    left: 452px;
+    color: white;
+
+    
+
+}
+
+div{
+    justify-content: center;
+}
+h2{
+    font-size: 50px;
+    font-family: inherit;
+    margin-top: 80px;
+    margin-left: 150px;
+
+}
+@media screen and (min-width: 400px){
+    .pp2{
+        background-image: url(excelbackground.jpg);
+        
+        
+        
+        padding:  ;
+       margin-left: 0px;
+        height: %;
+        width: %;
+    
+    }
+}
+

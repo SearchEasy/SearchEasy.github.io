@@ -1,0 +1,85 @@
+.pp2{
+    background-image: url(android\ backgrd.jpg);
+    display: flex;
+    flex-wrap: ;
+    
+    background-size: cover;
+    padding: 350px 15px;
+   margin-left: 0px;
+    height: 80%;
+    width: 98%;
+
+}
+
+h1{
+    padding: 15px 4px;
+    position: absolute;
+    top: 75%;
+    bottom: 50%;
+    font-size: 70px;
+    left: 452px;
+    color: white;
+
+    
+
+}
+p{
+    color: black;
+    font-size: x-large;
+    padding: 12px 10px;
+    margin: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ 
+   .cont{
+       display: flex;
+       
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(202, 198, 185);
+   
+    
+    
+
+   
+   }
+table{
+    border: 2px solid;
+    width: 40%;
+    padding: 25px 15px;
+    margin: 50px;
+    background-color: rgb(218, 234, 234);
+    font-size: 20px;
+    text-align: left;
+    height: auto;
+   font-family: Arial, Helvetica, sans-serif;
+   box-shadow: 15px 10px;
+  
+}
+table:hover{
+   background-color: yellowgreen; 
+}
+h2{
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+}
+.fcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+.im{
+    width: 10%;
+}
+.redmi{
+    background-image: url(eximg.webp);
+    padding: 350px 15px;
+   margin-left: 0px;
+    height: 80%;
+    width: 98%;
+    opacity: 0.4;
+}
